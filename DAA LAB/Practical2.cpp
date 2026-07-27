@@ -106,3 +106,17 @@ int main()
 
     return 0;
 }
+
+/*OUTPUT
+Enter number of elements: 5
+Enter elements:
+10 12 6 2 3 
+Enter element to search: 6
+
+Search Algorithms
+1. Linear Search
+2. Binary Search
+
+Enter your choice: 1
+
+Element Found at Position 3*/
